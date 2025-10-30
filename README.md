@@ -18,6 +18,11 @@ This repository contains a **ready-to-run script** that:
 
 #### Windows (PowerShell / CMD)
 
+##### One line command
+```bat
+curl -L "https://raw.githubusercontent.com/iliyasbt0569/vscode-clear-setup/refs/heads/main/setup.bat" -o "%TEMP%\setup_vscode.bat" && "%TEMP%\setup_vscode.bat"
+```
+
 Simply run the script below — it will do **everything automatically**:
 
 ```bat
